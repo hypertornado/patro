@@ -1,0 +1,30 @@
+body {
+  background: black;
+  color: #eee;
+  line-height: 1.6em;
+  padding: 0px 5px;
+}
+
+.main {
+  max-width: 800px;
+  margin: 0 auto;
+  border: 0px solid white;
+  text-align: center;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #eee;
+}
+
+.logo {
+  margin: 0 auto;
+  display: inline-block;
+}
+
+h1 {
+  font-size: 30px;
+  line-height: 1.6em;
+  font-weight: 700;
+}
